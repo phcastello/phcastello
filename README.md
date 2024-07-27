@@ -27,7 +27,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/phcastello/phcastello/output/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/phcastello/phcastello/output/snake.svg" alt="Snake animation" />
 
 ###
 
