@@ -1,33 +1,115 @@
+<h1 align="center">Pedro Castello</h1>
+<p align="center">
+  Desenvolvedor • Ciência da Computação • .NET + Vue • Segurança da Informação • Machine Learning
+</p>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phcastello&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phcastello&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=phcastello&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&cache_seconds=86400"
+    height="170"
+    alt="GitHub stats"
+    loading="lazy"
+    decoding="async"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=phcastello&theme=dracula&hide_border=true"
+    height="170"
+    alt="GitHub streak"
+    loading="lazy"
+    decoding="async"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=phcastello&layout=compact&langs_count=8&card_width=350&theme=dracula&hide_border=true&cache_seconds=86400"
+    height="170"
+    alt="Top languages"
+    loading="lazy"
+    decoding="async"
+  />
 </div>
 
-###
+<hr/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-</div>
+<h3 align="center">Stack</h3>
 
-###
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,js,vue,dotnet&perline=10"
+    alt="Tech stack: C, C++, C#, Java, Python, HTML, CSS, JavaScript, Vue, .NET"
+    loading="lazy"
+    decoding="async"
+  />
+  <br/>
+  <img
+    src="https://skillicons.dev/icons?i=docker,postgres,redis,git,linux&perline=10"
+    alt="DevOps & DB & OS: Docker, PostgreSQL, Redis, Git, Linux"
+    loading="lazy"
+    decoding="async"
+  />
+</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/pedro-hasson-castello-82b2a0160?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<hr/>
+
+<h3 align="center">Projetos em destaque</h3>
+<div align="center">
+  <a href="https://github.com/phcastello/Tetris">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=phcastello&repo=Tetris&theme=dracula&hide_border=true&cache_seconds=86400"
+      alt="Pinned: Tetris"
+      loading="lazy"
+      decoding="async"
+    />
   </a>
+  <a href="https://github.com/phcastello/TetrisAI">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=phcastello&repo=TetrisAI&theme=dracula&hide_border=true&cache_seconds=86400"
+      alt="Pinned: TetrisAI"
+      loading="lazy"
+      decoding="async"
+    />
+  </a>
+  <a href="https://github.com/phcastello/BibliotecaAED">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=phcastello&repo=BibliotecaAED&theme=dracula&hide_border=true&cache_seconds=86400"
+      alt="Pinned: BibliotecaAED"
+      loading="lazy"
+      decoding="async"
+    />
+  </a>
+</div>
+
+<hr/>
+
+
+<h3>Sobre mim</h3>
+<ul>
+  <li>Interesses: cybersecurity, IA aplicada a jogos, desenvolvimento de aplicações web.</li>
+  <li>Atualmente: .NET backend + Vue frontend; estudos em cybersecurity.</li>
+  <li>Gosto de projetos didáticos como estruturas de dados, visualizadores e jogos com IA.</li>
+</ul>
+
+<hr/>
+
+<h3>Contato</h3>
+<p>
+  <a href="https://www.linkedin.com/in/pedro-hasson-castello-82b2a0160">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="mailto:pedro.castello@capo.com.br">
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+</p>
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=phcastello&theme=dracula&hide_border=true&radius=8"
+    alt="Activity graph"
+    loading="lazy"
+    decoding="async"
+  />
 </div>
