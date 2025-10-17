@@ -19,12 +19,12 @@
     decoding="async"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=phcastello&layout=compact&langs_count=8&card_width=350&theme=dracula&hide_border=true&cache_seconds=86400"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=phcastello&layout=compact&langs_count=8&theme=dracula&hide_border=true&exclude_repo=CursoHTML-CSS,ifood_Unicentro,phcastello.github.io"
     alt="Top languages"
     loading="lazy"
     decoding="async"
   />
+
 </div>
 
 <hr/>
@@ -113,3 +113,4 @@
     decoding="async"
   />
 </div>
+
