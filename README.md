@@ -97,7 +97,7 @@
       alt="LinkedIn"
     />
   </a>
-  <a href="mailto:pedro.castello@capo.com.br">
+  <a href="mailto:dev.pedrocastello@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
@@ -113,5 +113,6 @@
     decoding="async"
   />
 </div>
+
 
 
