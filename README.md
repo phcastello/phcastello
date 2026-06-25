@@ -33,8 +33,8 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,js,vue,dotnet,django,fastapi&perline=15"
-    alt="Tech stack: C, C++, C#, Java, Python, HTML, CSS, JavaScript, Vue, .NET, Django, FastAPI"
+    src="https://skillicons.dev/icons?i=c,cpp,cs,rust,java,python,html,css,js,vue,dotnet,django,fastapi&perline=15"
+    alt="Tech stack: C, C++, C#, Rust, Java, Python, HTML, CSS, JavaScript, Vue, .NET, Django, FastAPI"
     loading="lazy"
     decoding="async"
   />
