@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="400" viewBox="0 0 480 400" role="img" aria-labelledby="title desc">
+<title id="title">Neuroevolution Racing — simulação e algoritmos evolutivos</title><desc id="desc">Redes neurais e algoritmo genético implementados em Rust. Simulação interativa e headless, checkpoints e retomada do treinamento.</desc>
+<rect x="0.75" y="0.75" width="478.5" height="398.5" rx="18" fill="#FFFFFF" stroke="#DFE3EE" stroke-width="1"/>
+<rect x="28" y="0" width="74" height="3" rx="1" fill="#175E9A"/>
+<text x="28" y="38" fill="#175E9A" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="1.5">02  /  SIMULAÇÃO E IA</text>
+<text x="26" y="89" fill="#172038" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="700">Neuroevolution Racing</text>
+<text x="28" y="128" fill="#172038" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="500">Redes neurais aprendendo a dirigir.</text>
+<text x="28" y="174" fill="#4C596E" font-family="Segoe UI,Arial,sans-serif" font-size="16.5" font-weight="400">MLP e algoritmo genético em Rust,</text>
+<text x="28" y="199" fill="#4C596E" font-family="Segoe UI,Arial,sans-serif" font-size="16.5" font-weight="400">implementados sem frameworks de ML.</text>
+<text x="28" y="238" fill="#4C596E" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="400">Simulação interativa e headless.</text>
+<text x="28" y="263" fill="#4C596E" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="400">Checkpoints e retomada do treinamento.</text>
+<rect x="28" y="283" width="54" height="28" rx="7" fill="#F1F4F9"/>
+<text x="40" y="302" fill="#4C596E" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="500">Rust</text>
+<rect x="90" y="283" width="56" height="28" rx="7" fill="#F1F4F9"/>
+<text x="102" y="302" fill="#4C596E" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="500">Bevy</text>
+<rect x="154" y="283" width="51" height="28" rx="7" fill="#F1F4F9"/>
+<text x="166" y="302" fill="#4C596E" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="500">egui</text>
+<path d="M28 322H452" stroke="#DFE3EE" fill="none"/>
+<text x="28" y="361" fill="#607089" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" font-weight="500">ALGORITMOS + ENGENHARIA</text>
+<rect x="281" y="338" width="171" height="38" rx="9" fill="#F0EAFD"/>
+<text x="299" y="363" fill="#6240B0" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Abrir projeto</text>
+<text x="432" y="363" fill="#6240B0" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="500">↗</text>
+</svg>

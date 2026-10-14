@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="400" viewBox="0 0 480 400" role="img" aria-labelledby="title desc">
+<title id="title">Aegis — assistente pessoal com memória, voz e ferramentas</title><desc id="desc">Aplicação .NET e Vue integrada à API da OpenAI. Memória persistente com PostgreSQL, Qdrant e Neo4j; voz, Gmail e Google Calendar.</desc>
+<rect x="0.75" y="0.75" width="478.5" height="398.5" rx="18" fill="#151922" stroke="#343B4C" stroke-width="1"/>
+<rect x="28" y="0" width="74" height="3" rx="1" fill="#C2A7FF"/>
+<text x="28" y="38" fill="#C2A7FF" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="1.5">01  /  PROJETO PRINCIPAL</text>
+<text x="26" y="100" fill="#F1F4FA" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700">Aegis</text>
+<text x="28" y="138" fill="#F1F4FA" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="500">Conversa, memória e ferramentas</text>
+<text x="28" y="167" fill="#F1F4FA" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="500">em um assistente pessoal.</text>
+<text x="28" y="206" fill="#AFB8CA" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="400">Modelos da OpenAI via API.</text>
+<text x="28" y="232" fill="#AFB8CA" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="400">Voz · Gmail · Google Calendar.</text>
+<rect x="28" y="254" width="57" height="28" rx="7" fill="#202638"/>
+<text x="40" y="273" fill="#AFB8CA" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="500">.NET</text>
+<rect x="93" y="254" width="49" height="28" rx="7" fill="#202638"/>
+<text x="105" y="273" fill="#AFB8CA" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="500">Vue</text>
+<rect x="150" y="254" width="91" height="28" rx="7" fill="#202638"/>
+<text x="162" y="273" fill="#AFB8CA" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="500">TypeScript</text>
+<text x="28" y="308" fill="#AFB8CA" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="500">PostgreSQL · Qdrant · Neo4j</text>
+<path d="M28 322H452" stroke="#343B4C" fill="none"/>
+<text x="28" y="361" fill="#A1ADC2" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" font-weight="500">APLICAÇÃO FULL-STACK</text>
+<rect x="281" y="338" width="171" height="38" rx="9" fill="#29243D"/>
+<text x="299" y="363" fill="#C2A7FF" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Abrir projeto</text>
+<text x="432" y="363" fill="#C2A7FF" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="500">↗</text>
+</svg>

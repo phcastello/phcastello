@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="350" viewBox="0 0 960 350" role="img" aria-labelledby="title desc">
+<title id="title">Aegis — assistente pessoal com memória, voz e ferramentas</title><desc id="desc">Aplicação .NET e Vue integrada à API da OpenAI. Memória persistente com PostgreSQL, Qdrant e Neo4j; voz, Gmail e Google Calendar.</desc>
+<rect x="0.75" y="0.75" width="958.5" height="348.5" rx="18" fill="#151922" stroke="#343B4C" stroke-width="1"/>
+<rect x="28" y="0" width="74" height="3" rx="1" fill="#C2A7FF"/>
+<text x="32" y="39" fill="#C2A7FF" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1.5">01  /  PROJETO PRINCIPAL</text>
+<text x="29" y="106" fill="#F1F4FA" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="700">Aegis</text>
+<text x="32" y="146" fill="#F1F4FA" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="500">Conversa, memória e ferramentas</text>
+<text x="32" y="177" fill="#F1F4FA" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="500">em um assistente pessoal.</text>
+<text x="32" y="212" fill="#AFB8CA" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="400">Modelos da OpenAI via API · Voz · Gmail · Calendar</text>
+<rect x="32" y="231" width="57" height="28" rx="7" fill="#202638"/>
+<text x="44" y="250" fill="#AFB8CA" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="500">.NET</text>
+<rect x="97" y="231" width="49" height="28" rx="7" fill="#202638"/>
+<text x="109" y="250" fill="#AFB8CA" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="500">Vue</text>
+<rect x="154" y="231" width="91" height="28" rx="7" fill="#202638"/>
+<text x="166" y="250" fill="#AFB8CA" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="500">TypeScript</text>
+<rect x="672" y="28" width="260" height="231" rx="13" fill="#1B2030"/>
+<text x="694" y="59" fill="#C2A7FF" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="1.1">MEMÓRIA PERSISTENTE</text>
+<text x="694" y="97" fill="#F1F4FA" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">PostgreSQL</text>
+<text x="694" y="119" fill="#AFB8CA" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400">Estado canônico</text>
+<text x="694" y="154" fill="#F1F4FA" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">Qdrant</text>
+<text x="694" y="176" fill="#AFB8CA" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400">Recuperação semântica</text>
+<text x="694" y="211" fill="#F1F4FA" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">Neo4j</text>
+<text x="694" y="233" fill="#AFB8CA" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400">Relações entre entidades</text>
+<path d="M28 270H932" stroke="#343B4C" fill="none"/>
+<text x="28" y="309" fill="#A1ADC2" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" font-weight="500">APLICAÇÃO FULL-STACK  /  AGENTES DE IA</text>
+<rect x="761" y="286" width="171" height="38" rx="9" fill="#29243D"/>
+<text x="779" y="311" fill="#C2A7FF" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Abrir projeto</text>
+<text x="912" y="311" fill="#C2A7FF" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="500">↗</text>
+</svg>
