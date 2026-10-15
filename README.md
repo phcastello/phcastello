@@ -1,55 +1,231 @@
 <h1 align="center">Pedro Castello</h1>
-<p align="center"><strong>Desenvolvedor de software · Ciência da Computação</strong></p>
-<p align="center">.NET &amp; Vue · Rust · Inteligência Artificial · Segurança da Informação</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-hasson-castello-82b2a0160"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/linkedin-dark.svg"><img src="assets/profile/linkedin-light.svg" width="118" height="36" alt="LinkedIn de Pedro Castello"></picture></a>
-  <a href="mailto:dev.pedrocastello@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/email-dark.svg"><img src="assets/profile/email-light.svg" width="118" height="36" alt="Enviar e-mail para Pedro Castello"></picture></a>
+  <strong>Desenvolvedor de software · Ciência da Computação</strong>
 </p>
 
-Sou estudante de **Ciência da Computação na Unicentro** e trabalho com **backend .NET e frontend Vue**. Nos meus projetos, exploro agentes de IA, algoritmos evolutivos e segurança aplicada.
-
-Gosto de construir ferramentas que eu mesmo usaria — e de entender os sistemas por trás delas.
-
-## Projetos em destaque
-
-<!-- O card inteiro é um link. As imagens ficam neste repositório, sem serviços de cards externos. -->
 <p align="center">
-  <a href="https://github.com/phcastello/Aegis">
-    <picture>
-      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/profile/aegis-mobile-dark.svg">
-      <source media="(max-width: 600px)" srcset="assets/profile/aegis-mobile-light.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="assets/profile/aegis-dark.svg">
-      <img src="assets/profile/aegis-light.svg" width="850" alt="Aegis — assistente pessoal .NET e Vue, integrado à API da OpenAI, com memória persistente, voz, Gmail e Google Calendar. Abrir repositório.">
-    </picture>
+  .NET & Vue · Rust · Inteligência Artificial · Segurança da Informação
+</p>
+
+<p align="center">
+  Sou estudante de <strong>Ciência da Computação</strong> na Unicentro e trabalho com
+  <strong>backend .NET</strong> e <strong>frontend Vue</strong>.
+  Nos meus projetos, exploro agentes de IA, algoritmos evolutivos, automação e segurança aplicada.
+</p>
+
+<p align="center">
+  Gosto de construir ferramentas que eu mesmo usaria — e de entender os sistemas por trás delas.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-hasson-castello-82b2a0160">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dev.pedrocastello@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/phcastello/Neuroevolution-Racing"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/racing-dark.svg"><img src="assets/profile/racing-light.svg" width="418" alt="Neuroevolution Racing — MLP e algoritmo genético implementados em Rust, simulação interativa e headless, checkpoints e retomada de treinamento. Abrir repositório."></picture></a>
-  &nbsp;
-  <a href="https://github.com/phcastello/CaptchaDecay"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/captcha-dark.svg"><img src="assets/profile/captcha-light.svg" width="418" alt="CaptchaDecay — coleta e preparação de datasets de CAPTCHAs em Python, deduplicação por SHA-256 e divisão em treino, validação e teste. Projeto experimental. Abrir repositório."></picture></a>
-</p>
 
-<details>
-  <summary><strong>Outros projetos</strong></summary>
-  <br>
-  <p><a href="https://github.com/phcastello/Codex-Guard"><strong>Codex Guard</strong></a> — ferramenta de terminal para acompanhar cotas e controlar o orçamento de créditos de sessões do Codex.</p>
-  <p><a href="https://github.com/phcastello/AutoApply/tree/mvp-assisted"><strong>AutoApply</strong></a> — adaptação de um projeto open source para candidaturas assistidas. <em>Fork de <a href="https://github.com/AbhishekMandapmalvi/AutoApply">Abhishek Mandapmalvi</a>.</em></p>
-</details>
+---
+<h2>Projetos em destaque</h2>
+
+<table>
+  <!-- Cabeçalhos -->
+  <tr>
+    <td width="33%" valign="top">
+      <p><sub>01 / APLICAÇÕES E IA</sub></p>
+      <h3>
+        <a href="https://github.com/phcastello/Aegis">
+          Aegis
+        </a>
+      </h3>
+    </td>
+    <td width="33%" valign="top">
+      <p><sub>02 / SIMULAÇÃO E IA</sub></p>
+      <h3>
+        <a href="https://github.com/phcastello/Neuroevolution-Racing">
+          Neuroevolution Racing
+        </a>
+      </h3>
+    </td>
+    <td width="33%" valign="top">
+      <p><sub>03 / DADOS E EXPERIMENTAÇÃO</sub></p>
+      <h3>
+        <a href="https://github.com/phcastello/CaptchaDecay">
+          CaptchaDecay
+        </a>
+      </h3>
+    </td>
+  </tr>
+
+  <!-- Descrições e diferenciais -->
+  <tr>
+    <td valign="top">
+      <p>
+        Assistente pessoal que conecta conversa, memória e ferramentas.
+      </p>
+      <ul>
+        <li>Modelos da OpenAI via API</li>
+        <li>Memória persistente e voz</li>
+        <li>Gmail e Google Calendar</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <p>
+        Veículos controlados por redes neurais evoluídas por algoritmo genético.
+      </p>
+      <ul>
+        <li>MLP e algoritmo genético em Rust</li>
+        <li>Simulação interativa e headless</li>
+        <li>Checkpoints de treinamento</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <p>
+        Coleta e preparação de CAPTCHAs para experimentação.
+      </p>
+      <ul>
+        <li>Treino, validação e teste</li>
+        <li>Deduplicação por hash</li>
+        <li>Tratamento de limites de requisições</li>
+      </ul>
+    </td>
+  </tr>
+
+  <!-- Tecnologias: mesma linha, mesma altura dos ícones -->
+  <tr>
+    <td valign="middle">
+      <img
+        src="https://skillicons.dev/icons?i=cs,dotnet,vue,ts,postgres&amp;theme=dark"
+        height="32"
+        alt="C#, .NET, Vue, TypeScript e PostgreSQL"
+      />
+    </td>
+    <td valign="middle">
+      <img
+        src="https://skillicons.dev/icons?i=rust,bevy&amp;theme=dark"
+        height="32"
+        alt="Rust e Bevy"
+      />
+    </td>
+    <td valign="middle">
+      <img
+        src="https://skillicons.dev/icons?i=py&amp;theme=dark"
+        height="32"
+        alt="Python"
+      />
+    </td>
+  </tr>
+</table>
+
+---
+<h2>Outros projetos relevantes</h2>
+
+<table>
+  <!-- Cabeçalhos -->
+  <tr>
+    <td width="50%" valign="top">
+      <p><sub>04 / FERRAMENTAS DE DESENVOLVIMENTO</sub></p>
+      <h3>
+        <a href="https://github.com/phcastello/Codex-Guard">
+          Codex Guard
+        </a>
+      </h3>
+    </td>
+    <td width="50%" valign="top">
+      <p><sub>05 / AUTOMAÇÃO</sub></p>
+      <h3>
+        <a href="https://github.com/phcastello/AutoApply/tree/mvp-assisted">
+          AutoApply
+        </a>
+      </h3>
+    </td>
+  </tr>
+
+  <!-- Descrições e diferenciais -->
+  <tr>
+    <td valign="top">
+      <p>
+        Ferramenta de terminal para supervisionar sessões do Codex
+        e controlar o orçamento.
+      </p>
+      <ul>
+        <li>Monitoramento de cotas e créditos</li>
+        <li>Interrupção ao atingir o orçamento configurado</li>
+        <li>Executáveis para Windows e Linux</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <p>
+        Fork de uma plataforma open source, adaptado para
+        candidaturas assistidas.
+      </p>
+      <ul>
+        <li>Busca e filtragem de vagas</li>
+        <li>Análise de compatibilidade com o perfil</li>
+        <li>Currículos personalizados por oportunidade</li>
+      </ul>
+    </td>
+  </tr>
+
+  <!-- Tecnologias -->
+  <tr>
+    <td valign="middle">
+      <img
+        src="https://skillicons.dev/icons?i=rust&amp;theme=dark"
+        height="32"
+        alt="Rust"
+      />
+    </td>
+    <td valign="middle">
+      <img
+        src="https://skillicons.dev/icons?i=py,flask,sqlite&amp;theme=dark"
+        height="32"
+        alt="Python, Flask e SQLite"
+      />
+    </td>
+  </tr>
+</table>
+---
 
 ## Tecnologias
 
-**No trabalho:** .NET e Vue. **Nos projetos:** Rust, Python, IA aplicada e infraestrutura.
+### Linguagens
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,rust,python,c,cpp,java,js,ts,html,css&theme=dark" />
+</p>
 
-| Área | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | `C#` · `Rust` · `Python` · `JavaScript` · `TypeScript` · `C` · `C++` · `Java` |
-| **Frontend** | `Vue` · `HTML` · `CSS` |
-| **Backend** | `.NET / ASP.NET Core` · `FastAPI` · `Django` |
-| **Bancos e recuperação de dados** | `PostgreSQL` · `Redis` · `Qdrant` · `Neo4j` |
-| **Simulação e interfaces** | `Bevy` · `egui` |
-| **Infraestrutura e versionamento** | `Docker` · `Linux` · `Git` |
+### Desenvolvimento web
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,vue,fastapi,django&theme=dark" />
+</p>
+
+### Dados, infraestrutura e ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,linux&theme=dark" />
+</p>
+
+### Interesses e foco atual
+<ul>
+  <li><strong>Trabalho:</strong> .NET backend + Vue frontend</li>
+  <li><strong>Projetos pessoais:</strong> IA aplicada, neuroevolução, automação e segurança</li>
+  <li><strong>Interesse técnico:</strong> sistemas bem estruturados, ferramentas úteis e experimentação prática</li>
+</ul>
 
 ---
 
-<p align="center"><sub>Software útil. Sistemas bem compreendidos. Atenção aos detalhes.</sub></p>
+## GitHub Stats
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=phcastello&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"
+    height="165"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=phcastello&layout=compact&langs_count=8&theme=dracula&hide_border=true&exclude_repo=CursoHTML-CSS,ifood_Unicentro,phcastello.github.io"
+    height="165"
+    alt="Top languages"
+  />
+</div>
