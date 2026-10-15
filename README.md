@@ -35,6 +35,7 @@
   <a href="https://github.com/phcastello/Aegis">
     <img
       src="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=Aegis&amp;theme=dracula&amp;hide_border=true&amp;description_lines_count=3&amp;cache_seconds=86400"
+      width="480"
       alt="Aegis - abrir repositório"
       loading="lazy"
       decoding="async"
@@ -45,7 +46,8 @@
 <p align="center">
   <a href="https://github.com/phcastello/Neuroevolution-Racing">
     <img
-      src="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=Neuroevolution-Racing&amp;theme=dracula&amp;hide_border=true&amp;description_lines_count=3&amp;cache_seconds=86400"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=Neuroevolution-Racing&amp;theme=dracula&amp;hide_border=true&amp;card_width=375&amp;description_lines_count=3&amp;cache_seconds=86400"
+      width="400"
       alt="Neuroevolution Racing - abrir repositório"
       loading="lazy"
       decoding="async"
@@ -53,7 +55,8 @@
   </a>
   <a href="https://github.com/phcastello/CaptchaDecay">
     <img
-      src="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=CaptchaDecay&amp;theme=dracula&amp;hide_border=true&amp;description_lines_count=3&amp;cache_seconds=86400"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=CaptchaDecay&amp;theme=dracula&amp;hide_border=true&amp;card_width=375&amp;description_lines_count=3&amp;cache_seconds=86400"
+      width="400"
       alt="CaptchaDecay - abrir repositório"
       loading="lazy"
       decoding="async"
