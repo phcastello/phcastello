@@ -31,65 +31,54 @@
 
 ## Projetos em destaque
 
-### [Aegis](https://github.com/phcastello/Aegis)
+<table width="100%">
+  <tr>
+    <td colspan="2" valign="top">
+      <p><sub>PROJETO PRINCIPAL &middot; APLICAÇÕES E IA</sub></p>
+      <h2><a href="https://github.com/phcastello/Aegis">Aegis</a></h2>
+      <p><strong>Conversa, memória e ferramentas em um assistente pessoal.</strong></p>
+      <p>Modelos da OpenAI via API &middot; Memória persistente e voz &middot; Integração com Gmail e Google Calendar</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=cs&amp;theme=dark" width="40" height="40" alt="C#" title="C#" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=dotnet&amp;theme=dark" width="40" height="40" alt=".NET" title=".NET" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=vue&amp;theme=dark" width="40" height="40" alt="Vue" title="Vue" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="40" height="40" alt="TypeScript" title="TypeScript" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
+      </p>
+      <p><a href="https://github.com/phcastello/Aegis"><strong>Ver projeto &rarr;</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><sub>SIMULAÇÃO E IA</sub></p>
+      <h3><a href="https://github.com/phcastello/Neuroevolution-Racing" title="Neuroevolution Racing">Racing</a></h3>
+      <p><strong>Redes neurais aprendendo a dirigir.</strong></p>
+      <p>MLP e algoritmo genético em Rust<br />
+      Simulação interativa e headless<br />
+      Checkpoints de treinamento</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=rust&amp;theme=dark" width="40" height="40" alt="Rust" title="Rust" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=bevy&amp;theme=dark" width="40" height="40" alt="Bevy" title="Bevy" />
+      </p>
+      <p><a href="https://github.com/phcastello/Neuroevolution-Racing"><strong>Ver projeto &rarr;</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <p><sub>DADOS E AUTOMAÇÃO</sub></p>
+      <h3><a href="https://github.com/phcastello/CaptchaDecay" title="CaptchaDecay">CaptchaDecay</a></h3>
+      <p><strong>Coleta e preparo de CAPTCHAs para treino e teste.</strong></p>
+      <p>Treino, validação e teste<br />
+      Deduplicação por hash<br />
+      Tratamento de limites de requisições</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=py&amp;theme=dark" width="40" height="40" alt="Python" title="Python" />
+      </p>
+      <p><a href="https://github.com/phcastello/CaptchaDecay"><strong>Ver projeto &rarr;</strong></a></p>
+    </td>
+  </tr>
+</table>
 
-<p>
-  Assistente pessoal que conecta conversa, memória e ferramentas.
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=cs&amp;theme=dark" width="40" height="40" alt="C#" title="C#" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=dotnet&amp;theme=dark" width="40" height="40" alt=".NET" title=".NET" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vue&amp;theme=dark" width="40" height="40" alt="Vue" title="Vue" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="40" height="40" alt="TypeScript" title="TypeScript" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
-</p>
 <details>
-  <summary>Recursos do projeto</summary>
-  <ul>
-    <li>Modelos da OpenAI via API</li>
-    <li>Memória persistente e voz</li>
-    <li>Integração com Gmail e Google Calendar</li>
-  </ul>
-</details>
-
-### [Neuroevolution Racing](https://github.com/phcastello/Neuroevolution-Racing)
-
-<p>
-  Veículos controlados por redes neurais evoluídas por algoritmo genético.
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=rust&amp;theme=dark" width="40" height="40" alt="Rust" title="Rust" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=bevy&amp;theme=dark" width="40" height="40" alt="Bevy" title="Bevy" />
-</p>
-<details>
-  <summary>Recursos do projeto</summary>
-  <ul>
-    <li>MLP e algoritmo genético em Rust</li>
-    <li>Simulação interativa e headless</li>
-    <li>Checkpoints de treinamento</li>
-  </ul>
-</details>
-
-### [CaptchaDecay](https://github.com/phcastello/CaptchaDecay)
-
-<p>
-  Coleta e preparação de CAPTCHAs para experimentação.
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=py&amp;theme=dark" width="40" height="40" alt="Python" title="Python" />
-</p>
-<details>
-  <summary>Recursos do projeto</summary>
-  <ul>
-    <li>Treino, validação e teste</li>
-    <li>Deduplicação por hash</li>
-    <li>Tratamento de limites de requisições</li>
-  </ul>
-</details>
-
----
-
-## Outros projetos relevantes
+  <summary><strong>Mais projetos</strong> &middot; Codex Guard e AutoApply</summary>
 
 ### [Codex Guard](https://github.com/phcastello/Codex-Guard)
 
@@ -100,14 +89,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=rust&amp;theme=dark" width="40" height="40" alt="Rust" title="Rust" />
 </p>
-<details>
-  <summary>Recursos do projeto</summary>
-  <ul>
-    <li>Monitoramento de cotas e créditos</li>
-    <li>Interrupção ao atingir o orçamento configurado</li>
-    <li>Executáveis para Windows e Linux</li>
-  </ul>
-</details>
+<p>Monitoramento de cotas e créditos &middot; Interrupção ao atingir o orçamento configurado &middot; Executáveis para Windows e Linux</p>
 
 ### [AutoApply](https://github.com/phcastello/AutoApply/tree/mvp-assisted)
 
@@ -120,13 +102,8 @@
   <img src="https://skillicons.dev/icons?i=flask&amp;theme=dark" width="40" height="40" alt="Flask" title="Flask" />&nbsp;
   <img src="https://skillicons.dev/icons?i=sqlite&amp;theme=dark" width="40" height="40" alt="SQLite" title="SQLite" />
 </p>
-<details>
-  <summary>Recursos do projeto</summary>
-  <ul>
-    <li>Busca e filtragem de vagas</li>
-    <li>Análise de compatibilidade com o perfil</li>
-    <li>Currículos personalizados por oportunidade</li>
-  </ul>
+<p>Busca e filtragem de vagas &middot; Análise de compatibilidade com o perfil &middot; Currículos personalizados por oportunidade</p>
+
 </details>
 
 ---
