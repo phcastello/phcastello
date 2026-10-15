@@ -29,11 +29,13 @@
 
 ---
 
+<div align="center">
+
 ## Projetos em destaque
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
-    <td colspan="2" valign="top">
+    <td colspan="2" align="center" valign="top">
       <p><sub>PROJETO PRINCIPAL &middot; APLICAÇÕES E IA</sub></p>
       <h2><a href="https://github.com/phcastello/Aegis">Aegis</a></h2>
       <p><strong>Conversa, memória e ferramentas em um assistente pessoal.</strong></p>
@@ -49,7 +51,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <p><sub>SIMULAÇÃO E IA</sub></p>
       <h3><a href="https://github.com/phcastello/Neuroevolution-Racing" title="Neuroevolution Racing">Racing</a></h3>
       <p><strong>Redes neurais aprendendo a dirigir.</strong></p>
@@ -62,7 +64,7 @@
       </p>
       <p><a href="https://github.com/phcastello/Neuroevolution-Racing"><strong>Ver projeto &rarr;</strong></a></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <p><sub>DADOS E AUTOMAÇÃO</sub></p>
       <h3><a href="https://github.com/phcastello/CaptchaDecay" title="CaptchaDecay">CaptchaDecay</a></h3>
       <p><strong>Coleta e preparo de CAPTCHAs para treino e teste.</strong></p>
@@ -105,6 +107,8 @@
 <p>Busca e filtragem de vagas &middot; Análise de compatibilidade com o perfil &middot; Currículos personalizados por oportunidade</p>
 
 </details>
+
+</div>
 
 ---
 
