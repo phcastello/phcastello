@@ -93,28 +93,30 @@
     </td>
   </tr>
 
-  <!-- Tecnologias: mesma linha, mesma altura dos ícones -->
+  <!-- Tecnologias: ícones individuais com nome ao passar o mouse -->
   <tr>
-    <td valign="middle">
-      <img
-        src="https://skillicons.dev/icons?i=cs,dotnet,vue,ts,postgres&amp;theme=dark"
-        height="32"
-        alt="C#, .NET, Vue, TypeScript e PostgreSQL"
-      />
+    <td valign="top">
+      <p><strong>Tecnologias</strong></p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=cs&amp;theme=dark" width="40" height="40" alt="C#" title="C#" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=dotnet&amp;theme=dark" width="40" height="40" alt=".NET" title=".NET" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=vue&amp;theme=dark" width="40" height="40" alt="Vue" title="Vue" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="40" height="40" alt="TypeScript" title="TypeScript" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
+      </p>
     </td>
-    <td valign="middle">
-      <img
-        src="https://skillicons.dev/icons?i=rust,bevy&amp;theme=dark"
-        height="32"
-        alt="Rust e Bevy"
-      />
+    <td valign="top">
+      <p><strong>Tecnologias</strong></p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=rust&amp;theme=dark" width="40" height="40" alt="Rust" title="Rust" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=bevy&amp;theme=dark" width="40" height="40" alt="Bevy" title="Bevy" />
+      </p>
     </td>
-    <td valign="middle">
-      <img
-        src="https://skillicons.dev/icons?i=py&amp;theme=dark"
-        height="32"
-        alt="Python"
-      />
+    <td valign="top">
+      <p><strong>Tecnologias</strong></p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=py&amp;theme=dark" width="40" height="40" alt="Python" title="Python" />
+      </p>
     </td>
   </tr>
 </table>
@@ -171,22 +173,23 @@
 
   <!-- Tecnologias -->
   <tr>
-    <td valign="middle">
-      <img
-        src="https://skillicons.dev/icons?i=rust&amp;theme=dark"
-        height="32"
-        alt="Rust"
-      />
+    <td valign="top">
+      <p><strong>Tecnologias</strong></p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=rust&amp;theme=dark" width="40" height="40" alt="Rust" title="Rust" />
+      </p>
     </td>
-    <td valign="middle">
-      <img
-        src="https://skillicons.dev/icons?i=py,flask,sqlite&amp;theme=dark"
-        height="32"
-        alt="Python, Flask e SQLite"
-      />
+    <td valign="top">
+      <p><strong>Tecnologias</strong></p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=py&amp;theme=dark" width="40" height="40" alt="Python" title="Python" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=flask&amp;theme=dark" width="40" height="40" alt="Flask" title="Flask" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=sqlite&amp;theme=dark" width="40" height="40" alt="SQLite" title="SQLite" />
+      </p>
     </td>
   </tr>
 </table>
+
 ---
 
 ## Tecnologias
