@@ -1,42 +1,33 @@
 <h1 align="center">Pedro Castello</h1>
 
 <p align="center">
-  <strong>Desenvolvedor de software · Ciência da Computação</strong>
+  <strong>Software developer</strong>
 </p>
 
-<p align="center">
-  .NET & Vue · Rust · Inteligência Artificial · Segurança da Informação
-</p>
-
-<p align="center">
-  Sou estudante de <strong>Ciência da Computação</strong> na Unicentro e trabalho com
-  <strong>backend .NET</strong> e <strong>frontend Vue</strong>.
-  Nos meus projetos, exploro agentes de IA, algoritmos evolutivos, automação e segurança aplicada.
-</p>
-
-<p align="center">
-  Gosto de construir ferramentas que eu mesmo usaria — e de entender os sistemas por trás delas.
-</p>
+<h3 align="center">
+  Computer Science student at Unicentro.<br />
+  .NET &amp; Vue developer, exploring Rust, AI, and security.
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-hasson-castello-82b2a0160">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:dev.pedrocastello@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">Projetos em destaque</h3>
+<h3 align="center">Featured projects</h3>
 
 <p align="center">
   <a href="https://github.com/phcastello/Aegis">
     <img
-      src="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=Aegis&amp;theme=dracula&amp;hide_border=true&amp;description_lines_count=3&amp;cache_seconds=86400"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=Aegis&amp;theme=dracula&amp;locale=en&amp;hide_border=true&amp;description_lines_count=3&amp;cache_seconds=86400"
       width="560"
-      alt="Aegis - abrir repositório"
+      alt="Aegis - open repository"
       loading="lazy"
       decoding="async"
     />
@@ -46,9 +37,9 @@
 <p align="center">
   <a href="https://github.com/phcastello/Neuroevolution-Racing">
     <img
-      src="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=Neuroevolution-Racing&amp;theme=dracula&amp;hide_border=true&amp;card_width=326&amp;description_lines_count=3&amp;cache_seconds=86400"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=Neuroevolution-Racing&amp;theme=dracula&amp;locale=en&amp;hide_border=true&amp;card_width=326&amp;description_lines_count=3&amp;cache_seconds=86400"
       width="380"
-      alt="Neuroevolution Racing - abrir repositório"
+      alt="Neuroevolution Racing - open repository"
       loading="lazy"
       decoding="async"
     />
@@ -56,30 +47,30 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/phcastello/CaptchaDecay">
     <img
-      src="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=CaptchaDecay&amp;theme=dracula&amp;hide_border=true&amp;card_width=326&amp;description_lines_count=3&amp;cache_seconds=86400"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=CaptchaDecay&amp;theme=dracula&amp;locale=en&amp;hide_border=true&amp;card_width=326&amp;description_lines_count=3&amp;cache_seconds=86400"
       width="380"
-      alt="CaptchaDecay - abrir repositório"
+      alt="CaptchaDecay - open repository"
       loading="lazy"
       decoding="async"
     />
   </a>
 </p>
 
-<h3 align="center">Outros projetos</h3>
+<h3 align="center">Other projects</h3>
 
 <p align="center">
   <a href="https://github.com/phcastello/Codex-Guard">
     <img
-      src="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=Codex-Guard&amp;theme=dracula&amp;hide_border=true&amp;description_lines_count=3&amp;cache_seconds=86400"
-      alt="Codex Guard - abrir repositório"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=Codex-Guard&amp;theme=dracula&amp;locale=en&amp;hide_border=true&amp;description_lines_count=3&amp;cache_seconds=86400"
+      alt="Codex Guard - open repository"
       loading="lazy"
       decoding="async"
     />
   </a>
   <a href="https://github.com/phcastello/AutoApply/tree/mvp-assisted">
     <img
-      src="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=AutoApply&amp;theme=dracula&amp;hide_border=true&amp;description_lines_count=3&amp;cache_seconds=86400"
-      alt="AutoApply - abrir repositório"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=AutoApply&amp;theme=dracula&amp;locale=en&amp;hide_border=true&amp;description_lines_count=3&amp;cache_seconds=86400"
+      alt="AutoApply - open repository"
       loading="lazy"
       decoding="async"
     />
@@ -87,12 +78,12 @@
 </p>
 
 <details>
-  <summary><strong>Detalhes e tecnologias dos projetos</strong></summary>
+  <summary><strong>Project details and technologies</strong></summary>
 
 #### [Aegis](https://github.com/phcastello/Aegis)
 
 <p>
-  Assistente pessoal que conecta conversa, memória e ferramentas.
+  Personal assistant that connects conversations, memory, and tools.
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=cs&amp;theme=dark" width="40" height="40" alt="C#" title="C#" />&nbsp;
@@ -102,60 +93,58 @@
   <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
 </p>
 <ul>
-  <li>Modelos da OpenAI via API</li>
-  <li>Memória persistente e voz</li>
-  <li>Integração com Gmail e Google Calendar</li>
+  <li>OpenAI models via API</li>
+  <li>Persistent memory and voice</li>
+  <li>Gmail and Google Calendar integration</li>
 </ul>
 
 #### [Neuroevolution Racing](https://github.com/phcastello/Neuroevolution-Racing)
 
 <p>
-  Veículos controlados por redes neurais evoluídas por algoritmo genético.
+  Vehicles driven by neural networks evolved through a genetic algorithm.
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=rust&amp;theme=dark" width="40" height="40" alt="Rust" title="Rust" />&nbsp;
   <img src="https://skillicons.dev/icons?i=bevy&amp;theme=dark" width="40" height="40" alt="Bevy" title="Bevy" />
 </p>
 <ul>
-  <li>MLP e algoritmo genético em Rust</li>
-  <li>Simulação interativa e headless</li>
-  <li>Checkpoints de treinamento</li>
+  <li>MLP and genetic algorithm in Rust</li>
+  <li>Interactive and headless simulation</li>
+  <li>Training checkpoints</li>
 </ul>
 
 #### [CaptchaDecay](https://github.com/phcastello/CaptchaDecay)
 
 <p>
-  Coleta e preparação de CAPTCHAs para experimentação.
+  CAPTCHA collection and preparation for experiments.
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=py&amp;theme=dark" width="40" height="40" alt="Python" title="Python" />
 </p>
 <ul>
-  <li>Treino, validação e teste</li>
-  <li>Deduplicação por hash</li>
-  <li>Tratamento de limites de requisições</li>
+  <li>Training, validation, and test splits</li>
+  <li>Hash-based deduplication</li>
+  <li>Rate limit handling</li>
 </ul>
 
 #### [Codex Guard](https://github.com/phcastello/Codex-Guard)
 
 <p>
-  Ferramenta de terminal para supervisionar sessões do Codex
-  e controlar o orçamento.
+  CLI tool for monitoring Codex sessions and controlling spending.
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=rust&amp;theme=dark" width="40" height="40" alt="Rust" title="Rust" />
 </p>
 <ul>
-  <li>Monitoramento de cotas e créditos</li>
-  <li>Interrupção ao atingir o orçamento configurado</li>
-  <li>Executáveis para Windows e Linux</li>
+  <li>Quota and credit monitoring</li>
+  <li>Session interruption when the budget is reached</li>
+  <li>Windows and Linux executables</li>
 </ul>
 
 #### [AutoApply](https://github.com/phcastello/AutoApply/tree/mvp-assisted)
 
 <p>
-  Fork de uma plataforma open source, adaptado para
-  candidaturas assistidas.
+  Fork of an open source platform, adapted for assisted job applications.
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=py&amp;theme=dark" width="40" height="40" alt="Python" title="Python" />&nbsp;
@@ -163,37 +152,37 @@
   <img src="https://skillicons.dev/icons?i=sqlite&amp;theme=dark" width="40" height="40" alt="SQLite" title="SQLite" />
 </p>
 <ul>
-  <li>Busca e filtragem de vagas</li>
-  <li>Análise de compatibilidade com o perfil</li>
-  <li>Currículos personalizados por oportunidade</li>
+  <li>Job search and filtering</li>
+  <li>Profile match analysis</li>
+  <li>Resumes tailored to each opportunity</li>
 </ul>
 
 </details>
 
 ---
 
-## Tecnologias
+## Technologies
 
-### Linguagens
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=cs,rust,python,c,cpp,java,js,ts,html,css&theme=dark" />
 </p>
 
-### Desenvolvimento web
+### Web development
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,vue,fastapi,django&theme=dark" />
 </p>
 
-### Dados, infraestrutura e ferramentas
+### Data, infrastructure, and tools
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,linux&theme=dark" />
 </p>
 
-### Interesses e foco atual
+### Current focus
 <ul>
-  <li><strong>Trabalho:</strong> .NET backend + Vue frontend</li>
-  <li><strong>Projetos pessoais:</strong> IA aplicada, neuroevolução, automação e segurança</li>
-  <li><strong>Interesse técnico:</strong> sistemas bem estruturados, ferramentas úteis e experimentação prática</li>
+  <li><strong>Work:</strong> .NET backend + Vue frontend</li>
+  <li><strong>Personal projects:</strong> applied AI, neuroevolution, automation, and security</li>
+  <li><strong>Interests:</strong> well-structured systems, useful tools, and hands-on experimentation</li>
 </ul>
 
 ---
@@ -202,12 +191,12 @@
 
 <div align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=phcastello&amp;show_icons=true&amp;include_all_commits=true&amp;theme=dracula&amp;hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=phcastello&amp;show_icons=true&amp;include_all_commits=true&amp;theme=dracula&amp;locale=en&amp;hide_border=true"
     height="165"
     alt="GitHub stats"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=phcastello&amp;layout=compact&amp;langs_count=8&amp;theme=dracula&amp;hide_border=true&amp;exclude_repo=CursoHTML-CSS,ifood_Unicentro,phcastello.github.io"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=phcastello&amp;layout=compact&amp;langs_count=8&amp;theme=dracula&amp;locale=en&amp;hide_border=true&amp;exclude_repo=CursoHTML-CSS,ifood_Unicentro,phcastello.github.io"
     height="165"
     alt="Top languages"
   />
