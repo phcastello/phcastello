@@ -30,73 +30,15 @@
 ---
 <h2>Projetos em destaque</h2>
 
-<table>
-  <!-- Cabeçalhos -->
+<table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <p><sub>01 / APLICAÇÕES E IA</sub></p>
-      <h3>
-        <a href="https://github.com/phcastello/Aegis">
-          Aegis
-        </a>
-      </h3>
-    </td>
-    <td width="33%" valign="top">
-      <p><sub>02 / SIMULAÇÃO E IA</sub></p>
-      <h3>
-        <a href="https://github.com/phcastello/Neuroevolution-Racing">
-          Neuroevolution Racing
-        </a>
-      </h3>
-    </td>
-    <td width="33%" valign="top">
-      <p><sub>03 / DADOS E EXPERIMENTAÇÃO</sub></p>
-      <h3>
-        <a href="https://github.com/phcastello/CaptchaDecay">
-          CaptchaDecay
-        </a>
-      </h3>
-    </td>
-  </tr>
-
-  <!-- Descrições e diferenciais -->
-  <tr>
-    <td valign="top">
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/phcastello/Aegis">Aegis</a></h3>
       <p>
         Assistente pessoal que conecta conversa, memória e ferramentas.
+        Integra modelos da OpenAI via API, memória persistente, voz,
+        Gmail e Google Calendar.
       </p>
-      <ul>
-        <li>Modelos da OpenAI via API</li>
-        <li>Memória persistente e voz</li>
-        <li>Gmail e Google Calendar</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <p>
-        Veículos controlados por redes neurais evoluídas por algoritmo genético.
-      </p>
-      <ul>
-        <li>MLP e algoritmo genético em Rust</li>
-        <li>Simulação interativa e headless</li>
-        <li>Checkpoints de treinamento</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <p>
-        Coleta e preparação de CAPTCHAs para experimentação.
-      </p>
-      <ul>
-        <li>Treino, validação e teste</li>
-        <li>Deduplicação por hash</li>
-        <li>Tratamento de limites de requisições</li>
-      </ul>
-    </td>
-  </tr>
-
-  <!-- Tecnologias: ícones individuais com nome ao passar o mouse -->
-  <tr>
-    <td valign="top">
-      <p><strong>Tecnologias</strong></p>
       <p>
         <img src="https://skillicons.dev/icons?i=cs&amp;theme=dark" width="40" height="40" alt="C#" title="C#" />&nbsp;
         <img src="https://skillicons.dev/icons?i=dotnet&amp;theme=dark" width="40" height="40" alt=".NET" title=".NET" />&nbsp;
@@ -105,15 +47,33 @@
         <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
       </p>
     </td>
-    <td valign="top">
-      <p><strong>Tecnologias</strong></p>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/phcastello/Neuroevolution-Racing">Neuroevolution Racing</a></h3>
+      <p>
+        Veículos controlados por redes neurais evoluídas por algoritmo genético.
+      </p>
+      <ul>
+        <li>MLP e algoritmo genético em Rust</li>
+        <li>Simulação interativa e headless</li>
+        <li>Checkpoints de treinamento</li>
+      </ul>
       <p>
         <img src="https://skillicons.dev/icons?i=rust&amp;theme=dark" width="40" height="40" alt="Rust" title="Rust" />&nbsp;
         <img src="https://skillicons.dev/icons?i=bevy&amp;theme=dark" width="40" height="40" alt="Bevy" title="Bevy" />
       </p>
     </td>
-    <td valign="top">
-      <p><strong>Tecnologias</strong></p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/phcastello/CaptchaDecay">CaptchaDecay</a></h3>
+      <p>
+        Coleta e preparação de CAPTCHAs para experimentação.
+      </p>
+      <ul>
+        <li>Treino, validação e teste</li>
+        <li>Deduplicação por hash</li>
+        <li>Tratamento de limites de requisições</li>
+      </ul>
       <p>
         <img src="https://skillicons.dev/icons?i=py&amp;theme=dark" width="40" height="40" alt="Python" title="Python" />
       </p>
@@ -124,30 +84,10 @@
 ---
 <h2>Outros projetos relevantes</h2>
 
-<table>
-  <!-- Cabeçalhos -->
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <p><sub>04 / FERRAMENTAS DE DESENVOLVIMENTO</sub></p>
-      <h3>
-        <a href="https://github.com/phcastello/Codex-Guard">
-          Codex Guard
-        </a>
-      </h3>
-    </td>
-    <td width="50%" valign="top">
-      <p><sub>05 / AUTOMAÇÃO</sub></p>
-      <h3>
-        <a href="https://github.com/phcastello/AutoApply/tree/mvp-assisted">
-          AutoApply
-        </a>
-      </h3>
-    </td>
-  </tr>
-
-  <!-- Descrições e diferenciais -->
-  <tr>
-    <td valign="top">
+      <h3><a href="https://github.com/phcastello/Codex-Guard">Codex Guard</a></h3>
       <p>
         Ferramenta de terminal para supervisionar sessões do Codex
         e controlar o orçamento.
@@ -157,8 +97,12 @@
         <li>Interrupção ao atingir o orçamento configurado</li>
         <li>Executáveis para Windows e Linux</li>
       </ul>
+      <p>
+        <img src="https://skillicons.dev/icons?i=rust&amp;theme=dark" width="40" height="40" alt="Rust" title="Rust" />
+      </p>
     </td>
-    <td valign="top">
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/phcastello/AutoApply/tree/mvp-assisted">AutoApply</a></h3>
       <p>
         Fork de uma plataforma open source, adaptado para
         candidaturas assistidas.
@@ -168,19 +112,6 @@
         <li>Análise de compatibilidade com o perfil</li>
         <li>Currículos personalizados por oportunidade</li>
       </ul>
-    </td>
-  </tr>
-
-  <!-- Tecnologias -->
-  <tr>
-    <td valign="top">
-      <p><strong>Tecnologias</strong></p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=rust&amp;theme=dark" width="40" height="40" alt="Rust" title="Rust" />
-      </p>
-    </td>
-    <td valign="top">
-      <p><strong>Tecnologias</strong></p>
       <p>
         <img src="https://skillicons.dev/icons?i=py&amp;theme=dark" width="40" height="40" alt="Python" title="Python" />&nbsp;
         <img src="https://skillicons.dev/icons?i=flask&amp;theme=dark" width="40" height="40" alt="Flask" title="Flask" />&nbsp;
