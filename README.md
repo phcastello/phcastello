@@ -33,11 +33,19 @@
 <table width="100%">
   <tr>
     <td colspan="2" valign="top">
-      <h3><a href="https://github.com/phcastello/Aegis">Aegis</a></h3>
       <p>
-        Assistente pessoal que conecta conversa, memória e ferramentas.
-        Integra modelos da OpenAI via API, memória persistente, voz,
-        Gmail e Google Calendar.
+        <a href="https://github.com/phcastello/Aegis">
+          <picture>
+            <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=Aegis&amp;theme=github_dark&amp;bg_color=00000000&amp;hide_border=true&amp;card_width=400&amp;description_lines_count=3&amp;locale=pt-br" />
+            <source media="(max-width: 600px)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=Aegis&amp;theme=default&amp;bg_color=00000000&amp;hide_border=true&amp;card_width=400&amp;description_lines_count=3&amp;locale=pt-br" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=Aegis&amp;theme=github_dark&amp;bg_color=00000000&amp;hide_border=true&amp;card_width=800&amp;description_lines_count=3&amp;locale=pt-br" />
+            <img src="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=Aegis&amp;theme=default&amp;bg_color=00000000&amp;hide_border=true&amp;card_width=800&amp;description_lines_count=3&amp;locale=pt-br" width="800" alt="Aegis — assistente pessoal com IA, memória persistente e voz. Abrir repositório." />
+          </picture>
+        </a>
+      </p>
+      <p>
+        Modelos da OpenAI via API e ferramentas integradas ao Gmail e Google Calendar,
+        em uma aplicação .NET e Vue.
       </p>
       <p>
         <img src="https://skillicons.dev/icons?i=cs&amp;theme=dark" width="40" height="40" alt="C#" title="C#" />&nbsp;
@@ -50,7 +58,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/phcastello/Neuroevolution-Racing">Neuroevolution Racing</a></h3>
+      <p>
+        <a href="https://github.com/phcastello/Neuroevolution-Racing">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=Neuroevolution-Racing&amp;theme=github_dark&amp;bg_color=00000000&amp;hide_border=true&amp;card_width=390&amp;description_lines_count=1&amp;locale=pt-br" />
+            <img src="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=Neuroevolution-Racing&amp;theme=default&amp;bg_color=00000000&amp;hide_border=true&amp;card_width=390&amp;description_lines_count=1&amp;locale=pt-br" width="390" alt="Neuroevolution Racing — redes neurais e algoritmo genético em Rust. Abrir repositório." />
+          </picture>
+        </a>
+      </p>
       <p>
         Veículos controlados por redes neurais evoluídas por algoritmo genético.
       </p>
@@ -65,7 +80,14 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/phcastello/CaptchaDecay">CaptchaDecay</a></h3>
+      <p>
+        <a href="https://github.com/phcastello/CaptchaDecay">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=CaptchaDecay&amp;theme=github_dark&amp;bg_color=00000000&amp;hide_border=true&amp;card_width=390&amp;description_lines_count=1&amp;locale=pt-br" />
+            <img src="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=CaptchaDecay&amp;theme=default&amp;bg_color=00000000&amp;hide_border=true&amp;card_width=390&amp;description_lines_count=1&amp;locale=pt-br" width="390" alt="CaptchaDecay — coleta e preparação de CAPTCHAs em Python. Abrir repositório." />
+          </picture>
+        </a>
+      </p>
       <p>
         Coleta e preparação de CAPTCHAs para experimentação.
       </p>
@@ -87,7 +109,14 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/phcastello/Codex-Guard">Codex Guard</a></h3>
+      <p>
+        <a href="https://github.com/phcastello/Codex-Guard">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=Codex-Guard&amp;theme=github_dark&amp;bg_color=00000000&amp;hide_border=true&amp;card_width=390&amp;description_lines_count=1&amp;locale=pt-br" />
+            <img src="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=Codex-Guard&amp;theme=default&amp;bg_color=00000000&amp;hide_border=true&amp;card_width=390&amp;description_lines_count=1&amp;locale=pt-br" width="390" alt="Codex Guard — supervisão de sessões e controle de orçamento do Codex. Abrir repositório." />
+          </picture>
+        </a>
+      </p>
       <p>
         Ferramenta de terminal para supervisionar sessões do Codex
         e controlar o orçamento.
@@ -102,7 +131,14 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/phcastello/AutoApply/tree/mvp-assisted">AutoApply</a></h3>
+      <p>
+        <a href="https://github.com/phcastello/AutoApply/tree/mvp-assisted">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=AutoApply&amp;theme=github_dark&amp;bg_color=00000000&amp;hide_border=true&amp;card_width=390&amp;description_lines_count=1&amp;locale=pt-br" />
+            <img src="https://github-stats-extended.vercel.app/api/pin/?username=phcastello&amp;repo=AutoApply&amp;theme=default&amp;bg_color=00000000&amp;hide_border=true&amp;card_width=390&amp;description_lines_count=1&amp;locale=pt-br" width="390" alt="AutoApply — fork adaptado para candidaturas assistidas. Abrir branch mvp-assisted." />
+          </picture>
+        </a>
+      </p>
       <p>
         Fork de uma plataforma open source, adaptado para
         candidaturas assistidas.
@@ -153,12 +189,12 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=phcastello&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=phcastello&amp;show_icons=true&amp;include_all_commits=true&amp;theme=dracula&amp;hide_border=true"
     height="165"
     alt="GitHub stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=phcastello&layout=compact&langs_count=8&theme=dracula&hide_border=true&exclude_repo=CursoHTML-CSS,ifood_Unicentro,phcastello.github.io"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=phcastello&amp;layout=compact&amp;langs_count=8&amp;theme=dracula&amp;hide_border=true&amp;exclude_repo=CursoHTML-CSS,ifood_Unicentro,phcastello.github.io"
     height="165"
     alt="Top languages"
   />
